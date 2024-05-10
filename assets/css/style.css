@@ -19285,8 +19285,8 @@ body{
   padding: 9px 8px 6px 8px;
   line-height: 1;
   border-radius: 4px;
-  color: #088178;
-  background-color: #fddde4;
+  color: white;
+  background-color: #593127;
 }
 
 @media (max-width:799) {
@@ -19304,8 +19304,8 @@ body{
       width: 300px;
       margin: 15px 15px;
   }
-  
 }
+
 @media (max-width:477px){
   .section-p1{
       margin-left: 15px;
@@ -19371,11 +19371,11 @@ body{
 	font-size: 17px;
   text-align: justify
 }
-@media(max-width: 768px){
+/* @media(max-width: 768px){
 	main.row{
 		grid-template-columns: 1fr;
 	}
 	.row .col:nth-child(2){
 		margin-top: 30px;
 	}
-} 
+}  */
